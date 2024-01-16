@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweb"]=self["webpackChunkweb"]||[]).push([[415],{4415:function(r,n,c){c.r(n),c.d(n,{default:function(){return f}});var e=c(6252);const s={class:"card-group row"},t=(0,e._)("div",{class:"card"}," 我是USER ",-1),u=[t];function a(r,n){return(0,e.wg)(),(0,e.iD)("section",s,u)}var o=c(3744);const i={},d=(0,o.Z)(i,[["render",a]]);var f=d}}]);
+//# sourceMappingURL=415.ad070f75.js.map
