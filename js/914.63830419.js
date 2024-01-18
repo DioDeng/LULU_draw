@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkweb"]=self["webpackChunkweb"]||[]).push([[914],{914:function(r,n,c){c.r(n),c.d(n,{default:function(){return f}});var e=c(6252);const s={class:"card-group row"},t=(0,e._)("div",{class:"card"}," 我是首頁 ",-1),u=[t];function a(r,n){return(0,e.wg)(),(0,e.iD)("section",s,u)}var o=c(3744);const i={},d=(0,o.Z)(i,[["render",a]]);var f=d}}]);
-//# sourceMappingURL=914.63830419.js.map

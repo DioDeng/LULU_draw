@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweb"]=self["webpackChunkweb"]||[]).push([[867],{867:function(e,n,r){function u(e,n){return" 我是Day2 "}r.r(n),r.d(n,{default:function(){return f}});var t=r(3744);const c={},a=(0,t.Z)(c,[["render",u]]);var f=a}}]);
+//# sourceMappingURL=867.08d0ca88.js.map
